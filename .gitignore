@@ -1,0 +1,72 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+target/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.a
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+.eggs/
+venv/
+env/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+.m2/
+
+# C/C++
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Asset cache
+.cache/
+*.meta
+
+# Editor temp files
+*.tmp
+*.bak
+*.swp
+*~
