@@ -285,10 +285,10 @@ PolyGameX demonstrates:
 
 ## 📞 Contact
 
-**Project Link**: [https://github.com/yourusername/PolyGameX](https://github.com/yourusername/PolyGameX)
+**Project Link**: 
 
 ---
 
 <div align="center">
-Made with ❤️ using C, C++, C#, Java, and Python
+Made with ❤️ by Tushar Singh Bisht
 </div>
