@@ -283,12 +283,6 @@ PolyGameX demonstrates:
 - ✅ Software architecture and design patterns
 - ✅ Build systems and DevOps
 
-## 📞 Contact
-
-**Project Link**: 
-
----
-
 <div align="center">
 Made with ❤️ by Tushar Singh Bisht
 </div>
